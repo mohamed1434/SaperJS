@@ -1,4 +1,4 @@
-import { getRandom } from "./getRandom"
+import { getRandom } from "./getRandom.js"
 
 export let matrix = []
 
